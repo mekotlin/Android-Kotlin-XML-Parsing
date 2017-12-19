@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+
+    <listitem>
+        <studentid>1</studentid>
+        <name>Raj</name>
+        <class>A</class>
+        <division>H</division>
+        <address>Nagar</address>
+    </listitem>
+
+    <listitem>
+        <studentid>2</studentid>
+        <name>Vijay</name>
+        <class>B</class>
+        <division>H</division>
+        <address>Nagar</address>
+    </listitem>
+    <listitem>
+        <studentid>3</studentid>
+        <name>Shree</name>
+        <class>A</class>
+        <division>H</division>
+        <address>Nagar</address>
+    </listitem>
+    <listitem>
+        <studentid>4</studentid>
+        <name>Rajat</name>
+        <class>A</class>
+        <division>H</division>
+        <address>Nagar</address>
+    </listitem>
+
+    <listitem>
+        <studentid>5</studentid>
+        <name>Janvi</name>
+        <class>D</class>
+        <division>K</division>
+        <address>Nagar</address>
+    </listitem>
+
+    <listitem>
+        <studentid>6</studentid>
+        <name>Suraj</name>
+        <class>D</class>
+        <division>K</division>
+        <address>Nagar</address>
+    </listitem>
+
+    <listitem>
+        <studentid>7</studentid>
+        <name>Shyam</name>
+        <class>D</class>
+        <division>K</division>
+        <address>Nagar</address>
+    </listitem>
+
+</list>
